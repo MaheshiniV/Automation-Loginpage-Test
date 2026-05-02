@@ -1,4 +1,4 @@
-# Selenium Login Automation Project
+# Selenium Automation-Loginpage-Test Project
 
 ## Tools & Technologies
 - Selenium WebDriver
